@@ -1,0 +1,22 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.AK.test2"
+    },
+    "clevertap-cordova": {
+      "CLEVERTAP_ACCOUNT_ID": "TEST-RZ7-Z94-K95Z",
+      "CLEVERTAP_TOKEN": "TEST-4c1-a12",
+      "CLEVERTAP_REGION": " ",
+      "FIREBASE_MESSAGING_VERSION": "20.2.4",
+      "PACKAGE_NAME": "com.AK.test2"
+    }
+  },
+  "dependent_plugins": {}
+}
