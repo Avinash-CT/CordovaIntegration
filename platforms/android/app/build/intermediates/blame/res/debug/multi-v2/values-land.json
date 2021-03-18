@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\CleverTap\\Task2\\Cordova\\Android\\TestApp3\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kenshin\\.gradle\\caches\\transforms-2\\files-2.1\\0f1555e032825aeddcfcbe63ee282066\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "96,166,237",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "161,232,300"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kenshin\\.gradle\\caches\\transforms-2\\files-2.1\\fb98fd12a96aaa9e0965acc3f3f2b274\\material-1.2.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,128,198,270,340,405,472,542,614,683,752,834,924,1000,1068,1135,1213,1278,1345,1517,1912",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,29,34",
+                        "endColumns": "72,69,71,69,64,66,69,71,68,68,81,89,75,67,66,77,64,66,10,10,10",
+                        "endOffsets": "123,193,265,335,400,467,537,609,678,747,829,919,995,1063,1130,1208,1273,1340,1512,1907,2176"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,29,30,31,35,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "356,429,499,571,641,706,773,843,915,984,1053,1135,1225,1301,1369,1436,1847,1912,1979,2151,2546",
+                        "endLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,29,30,34,40,45",
+                        "endColumns": "72,69,71,69,64,66,69,71,68,68,81,89,75,67,66,77,64,66,10,10,10",
+                        "endOffsets": "424,494,566,636,701,768,838,910,979,1048,1130,1220,1296,1364,1431,1509,1907,1974,2146,2541,2810"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kenshin\\.gradle\\caches\\transforms-2\\files-2.1\\d51b8c3e18996c185286c5314101ef4c\\jetified-clevertap-android-sdk-4.0.2\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,147,200,258,317,374,428",
+                        "endColumns": "40,50,52,57,58,56,53,51",
+                        "endOffsets": "91,142,195,253,312,369,423,475"
+                    },
+                    "to": {
+                        "startLines": "2,6,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,305,1514,1567,1625,1684,1741,1795",
+                        "endColumns": "40,50,52,57,58,56,53,51",
+                        "endOffsets": "91,351,1562,1620,1679,1736,1790,1842"
+                    }
+                }
+            ]
+        }
+    ]
+}

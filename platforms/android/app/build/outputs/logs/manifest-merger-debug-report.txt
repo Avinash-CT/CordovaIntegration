@@ -1,0 +1,535 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [:CordovaLib] D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:17:1-45:12
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:2:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d9d8fc5de8938f04da133fe2a76aad6e\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb98fd12a96aaa9e0965acc3f3f2b274\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0f1555e032825aeddcfcbe63ee282066\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b23608fa5fe4b4ed81ffaed56e62c6bf\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fc03ea13181aacd63785fb582110cdb2\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1d7503709ca9549b7990334b40c3c4c7\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f5aa96cf2b9e379bec70b7613945f78b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\88ba4c904c6e3a8b50d72de5b0b7d7ed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\383e2570c9c3daf036d1bb6da1961798\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a9eb8fbac153417ffbc60d2be80d8ec5\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9a657bf55b6b3d046a7bbc9c761ca978\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb5fb961ce5c18d4b01db1e5ee222871\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0dfe7f4fd5b732a164b46a95bba73e87\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0d772bcf1366ea819898dd036e6a8346\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3f62dcf67919dbef17fdd23da6399ba2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d0b3712af5dcf8dbc32c849742e1fcc4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\bfebd5e69d8dd5e1291ce91c4e26be2f\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9c54ff0b371f32db3d8ab1b8f272a6e3\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\264c9608716f879bc67354f6985f4a87\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\97d1f7a22557f9e6ece2c52cbdf674ce\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\ea5e13603b8f4f7bb9617680108d02c2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c7aaa9ce68323904e9ff54ed22c28d30\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c0dd6d9d11676c98d1bb5c01a0b2168d\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\36127a17d0023dad6a8db885c28b53fa\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9c5f3a82d29063ed24a474a5538c912c\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\ab28f4e7791c0539a4000800c121e710\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\5af51bd6fb281626b40e68ddb6489e2e\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\99547c38c13be4180f2e91df95cf964b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\739eedc2baadd2561e8621ad192f6b5d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fef69ed47fa597fb34ba9d467d05a3d7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2ed9f6010dde8179c599e19aeb89551a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b2c08026c70229f8f2ef0cc5f3ad24d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\98e815c1e9a1021ab9468912209506ad\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\7b8479a6721908d05452aed915b397c4\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1f0afc859203b8bbff634dde76bfc1be\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c18518dd3afc81f2ec6827b32ad9289a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\5928e42aed64e1c6d9da73c7347f8bb2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2daff2d4240c7ca25b99da1497e09ecd\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2831452e69f6a050ccf1d1b0e27623d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\de94e1d7861a47f69fe2befd5e8817c1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fded0d28f58fef389aa9a8e1eea55c97\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\18c19dab750f2f93e5050a1b5221098a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:102-124
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:125-183
+	android:versionCode
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:22:5-43:19
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:11:5-38:19
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:11:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d9d8fc5de8938f04da133fe2a76aad6e\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d9d8fc5de8938f04da133fe2a76aad6e\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb98fd12a96aaa9e0965acc3f3f2b274\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb98fd12a96aaa9e0965acc3f3f2b274\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b23608fa5fe4b4ed81ffaed56e62c6bf\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b23608fa5fe4b4ed81ffaed56e62c6bf\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1d7503709ca9549b7990334b40c3c4c7\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1d7503709ca9549b7990334b40c3c4c7\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f5aa96cf2b9e379bec70b7613945f78b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f5aa96cf2b9e379bec70b7613945f78b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\88ba4c904c6e3a8b50d72de5b0b7d7ed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\88ba4c904c6e3a8b50d72de5b0b7d7ed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c0dd6d9d11676c98d1bb5c01a0b2168d\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c0dd6d9d11676c98d1bb5c01a0b2168d\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:11:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\36127a17d0023dad6a8db885c28b53fa\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\36127a17d0023dad6a8db885c28b53fa\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\99547c38c13be4180f2e91df95cf964b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\99547c38c13be4180f2e91df95cf964b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c0dd6d9d11676c98d1bb5c01a0b2168d\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:5:174-200
+	android:label
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+	android:hardwareAccelerated
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:5:121-173
+activity#com.AK.test2.MainActivity
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:136-173
+	android:launchMode
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:174-204
+	android:windowSoftInputMode
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:296-338
+	android:configChanges
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+	android:theme
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:233-295
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:6:205-232
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+service#com.clevertap.android.sdk.pushnotification.fcm.FcmMessageListenerService
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:12:9-16:19
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:12:18-105
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:13:13-15:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:14:17-78
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:14:25-75
+service#com.clevertap.android.sdk.pushnotification.CTNotificationIntentService
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:17:9-21:19
+	android:exported
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:17:18-42
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:17:43-128
+intent-filter#action:name:com.clevertap.PUSH_EVENT
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:18:13-20:29
+action#com.clevertap.PUSH_EVENT
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:19:25-64
+meta-data#CLEVERTAP_ACCOUNT_ID
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:22:9-92
+	android:value
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:22:56-89
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:22:20-55
+meta-data#CLEVERTAP_TOKEN
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:23:9-82
+	android:value
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:23:51-79
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:23:20-50
+meta-data#CLEVERTAP_REGION
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:24:9-72
+	android:value
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:24:52-69
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:24:20-51
+receiver#com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:25:9-154
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:21:9-24:40
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:21:9-24:40
+	android:enabled
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:25:19-41
+	android:exported
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:25:42-66
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:25:67-151
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:27:5-79
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:28:5-68
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml:28:22-65
+uses-sdk
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+MERGED from [:CordovaLib] D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d9d8fc5de8938f04da133fe2a76aad6e\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d9d8fc5de8938f04da133fe2a76aad6e\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb98fd12a96aaa9e0965acc3f3f2b274\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb98fd12a96aaa9e0965acc3f3f2b274\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0f1555e032825aeddcfcbe63ee282066\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0f1555e032825aeddcfcbe63ee282066\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b23608fa5fe4b4ed81ffaed56e62c6bf\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b23608fa5fe4b4ed81ffaed56e62c6bf\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fc03ea13181aacd63785fb582110cdb2\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fc03ea13181aacd63785fb582110cdb2\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1d7503709ca9549b7990334b40c3c4c7\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1d7503709ca9549b7990334b40c3c4c7\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f5aa96cf2b9e379bec70b7613945f78b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f5aa96cf2b9e379bec70b7613945f78b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\88ba4c904c6e3a8b50d72de5b0b7d7ed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\88ba4c904c6e3a8b50d72de5b0b7d7ed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\383e2570c9c3daf036d1bb6da1961798\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\383e2570c9c3daf036d1bb6da1961798\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a9eb8fbac153417ffbc60d2be80d8ec5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a9eb8fbac153417ffbc60d2be80d8ec5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9a657bf55b6b3d046a7bbc9c761ca978\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9a657bf55b6b3d046a7bbc9c761ca978\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb5fb961ce5c18d4b01db1e5ee222871\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fb5fb961ce5c18d4b01db1e5ee222871\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0dfe7f4fd5b732a164b46a95bba73e87\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0dfe7f4fd5b732a164b46a95bba73e87\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0d772bcf1366ea819898dd036e6a8346\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0d772bcf1366ea819898dd036e6a8346\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3f62dcf67919dbef17fdd23da6399ba2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3f62dcf67919dbef17fdd23da6399ba2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d0b3712af5dcf8dbc32c849742e1fcc4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d0b3712af5dcf8dbc32c849742e1fcc4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\bfebd5e69d8dd5e1291ce91c4e26be2f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\bfebd5e69d8dd5e1291ce91c4e26be2f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9c54ff0b371f32db3d8ab1b8f272a6e3\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9c54ff0b371f32db3d8ab1b8f272a6e3\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\264c9608716f879bc67354f6985f4a87\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\264c9608716f879bc67354f6985f4a87\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\97d1f7a22557f9e6ece2c52cbdf674ce\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\97d1f7a22557f9e6ece2c52cbdf674ce\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\ea5e13603b8f4f7bb9617680108d02c2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\ea5e13603b8f4f7bb9617680108d02c2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c7aaa9ce68323904e9ff54ed22c28d30\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c7aaa9ce68323904e9ff54ed22c28d30\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c0dd6d9d11676c98d1bb5c01a0b2168d\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c0dd6d9d11676c98d1bb5c01a0b2168d\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\36127a17d0023dad6a8db885c28b53fa\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\36127a17d0023dad6a8db885c28b53fa\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9c5f3a82d29063ed24a474a5538c912c\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\9c5f3a82d29063ed24a474a5538c912c\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\ab28f4e7791c0539a4000800c121e710\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\ab28f4e7791c0539a4000800c121e710\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\5af51bd6fb281626b40e68ddb6489e2e\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\5af51bd6fb281626b40e68ddb6489e2e\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\99547c38c13be4180f2e91df95cf964b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\99547c38c13be4180f2e91df95cf964b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\739eedc2baadd2561e8621ad192f6b5d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\739eedc2baadd2561e8621ad192f6b5d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fef69ed47fa597fb34ba9d467d05a3d7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fef69ed47fa597fb34ba9d467d05a3d7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2ed9f6010dde8179c599e19aeb89551a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2ed9f6010dde8179c599e19aeb89551a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b2c08026c70229f8f2ef0cc5f3ad24d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b2c08026c70229f8f2ef0cc5f3ad24d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\98e815c1e9a1021ab9468912209506ad\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\98e815c1e9a1021ab9468912209506ad\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\7b8479a6721908d05452aed915b397c4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\7b8479a6721908d05452aed915b397c4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1f0afc859203b8bbff634dde76bfc1be\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\1f0afc859203b8bbff634dde76bfc1be\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c18518dd3afc81f2ec6827b32ad9289a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\c18518dd3afc81f2ec6827b32ad9289a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\5928e42aed64e1c6d9da73c7347f8bb2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\5928e42aed64e1c6d9da73c7347f8bb2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2daff2d4240c7ca25b99da1497e09ecd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2daff2d4240c7ca25b99da1497e09ecd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2831452e69f6a050ccf1d1b0e27623d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\2831452e69f6a050ccf1d1b0e27623d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\de94e1d7861a47f69fe2befd5e8817c1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\de94e1d7861a47f69fe2befd5e8817c1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fded0d28f58fef389aa9a8e1eea55c97\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\fded0d28f58fef389aa9a8e1eea55c97\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\18c19dab750f2f93e5050a1b5221098a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\18c19dab750f2f93e5050a1b5221098a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CleverTap\Task2\Cordova\Android\TestApp3\platforms\android\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.4] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\8cf59d98ed018d2cda4c79459b272dc9\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:40:17-119
+activity#com.clevertap.android.sdk.InAppNotificationActivity
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:12:9-15:75
+	android:configChanges
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:14:13-51
+	android:theme
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:13:13-79
+activity#com.clevertap.android.sdk.CTInboxActivity
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:16:9-19:77
+	android:configChanges
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:18:13-51
+	android:theme
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:19:13-74
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:17:13-69
+service#com.clevertap.android.sdk.pushnotification.amp.CTBackgroundIntentService
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:26:9-33:19
+	android:exported
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:27:13-100
+intent-filter#action:name:com.clevertap.BG_EVENT
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:30:13-32:29
+action#com.clevertap.BG_EVENT
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:31:17-65
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:31:25-62
+service#com.clevertap.android.sdk.pushnotification.amp.CTBackgroundJobService
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:34:9-37:72
+	android:exported
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:36:13-37
+	android:permission
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.0.2] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\d51b8c3e18996c185286c5314101ef4c\jetified-clevertap-android-sdk-4.0.2\AndroidManifest.xml:35:13-97
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\48d4270d568844c7349ad9e2330ddc4e\jetified-firebase-iid-20.2.3\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\649ac12d8376f3e8496bf5b18008839d\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a6e8a1e171934419aaf6f92dead09258\jetified-firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\a72191da2acd3437f8690056852f5c89\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\f188a031b142ec69f2d3aa5d849f97e9\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\74c8b617f87ddd94389f048e35e4a938\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:2.1] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\b108a9cdecf114a8752440b0d723a557\jetified-installreferrer-2.1\AndroidManifest.xml:9:22-107
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\3e1ef84c3698abc05d0a826a7b75a73b\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kenshin\.gradle\caches\transforms-2\files-2.1\0a1bf3afa40fe7cf3de9ee674ef68fc9\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132

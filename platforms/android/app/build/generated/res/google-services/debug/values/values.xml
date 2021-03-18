@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">220881803758-ga6o8v1u3bpqdfhp296a5du8pvn0sqi2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">220881803758</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZVB1dC17GdtTm6UN6NI2mwQb0YPD5CbM</string>
+    <string name="google_app_id" translatable="false">1:220881803758:android:02760c20d28720458896ff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZVB1dC17GdtTm6UN6NI2mwQb0YPD5CbM</string>
+    <string name="google_storage_bucket" translatable="false">cordova-android-621b6.appspot.com</string>
+    <string name="project_id" translatable="false">cordova-android-621b6</string>
+</resources>

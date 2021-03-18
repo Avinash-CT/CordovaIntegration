@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\CleverTap\\Task2\\Cordova\\Android\\TestApp3\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kenshin\\.gradle\\caches\\transforms-2\\files-2.1\\0f1555e032825aeddcfcbe63ee282066\\appcompat-1.2.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "95,164,233,303,377,453,512,583",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "159,228,298,372,448,507,578,646"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kenshin\\.gradle\\caches\\transforms-2\\files-2.1\\fb98fd12a96aaa9e0965acc3f3f2b274\\material-1.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,673,732,795",
+                        "endLines": "2,3,4,5,6,7,9,10,11,12,13,17",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,19,21,22,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "651,711,781,852,924,982,1040,1149,1264,1320,1712,1775",
+                        "endLines": "11,12,13,14,15,16,18,19,21,22,29,33",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "706,776,847,919,977,1035,1144,1208,1315,1374,1770,1942"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kenshin\\.gradle\\caches\\transforms-2\\files-2.1\\d51b8c3e18996c185286c5314101ef4c\\jetified-clevertap-android-sdk-4.0.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,146,199,257,316,373,427",
+                        "endColumns": "39,50,52,57,58,56,53,51",
+                        "endOffsets": "90,141,194,252,311,368,422,474"
+                    },
+                    "to": {
+                        "startLines": "2,20,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,1213,1379,1432,1490,1549,1606,1660",
+                        "endColumns": "39,50,52,57,58,56,53,51",
+                        "endOffsets": "90,1259,1427,1485,1544,1601,1655,1707"
+                    }
+                }
+            ]
+        }
+    ]
+}
